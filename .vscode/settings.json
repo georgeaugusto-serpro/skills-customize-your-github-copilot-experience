@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^mkdir -p \\.github/skills/new-assignment/scripts && : > \\.github/skills/new-assignment/scripts/add-attachment\\.js$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
