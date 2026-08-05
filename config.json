@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "stacks-and-queues",
+      "title": "Stacks and Queues in Python",
+      "description": "Implement stack and queue data structures from scratch and compare LIFO/FIFO behavior with practical examples.",
+      "path": "assignments/stacks-and-queues",
+      "dueDate": "2026-08-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
